@@ -1,6 +1,6 @@
-Dessert Release App - Solution Code
+Dessert Release App - Starter Code
 =================================
-Solution code for the Android Basics with Compose: Dessert Release app.
+Starter code for the Android Basics with Compose: Dessert Release app.
 
 Introduction
 ------------
